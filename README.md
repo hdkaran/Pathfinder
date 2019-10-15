@@ -1,3 +1,16 @@
+**Pathfinder**
+This project demostrates the working of Dijkstra's Algorithm. The algorithm uses a grid and contraints to find the shortest path from a starting node in a grid to an ending node in a grid. 
+
+The project was inspired from a Youtube Video I recently saw. My project, however isn't as big as the original project but is sufficient enough to visualize one algorith at a time.
+
+To run the project, simply download the whole project, and open command-line the the downloaded folder. And enter these commands: (like simple react-app)
+
+npm install
+npm start
+
+Note: you will need to have node.js intalled on your system.
+
+-------------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
